@@ -68,7 +68,9 @@ h1 {
     left: 50%;
     transform: translate(-50%,-50%);
 }
-
+.play{
+    color: yellow
+}
 /* Add Overlay for Img */
 .img-container:after {
     content: "";
